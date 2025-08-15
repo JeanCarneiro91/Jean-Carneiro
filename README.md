@@ -17,8 +17,8 @@
 
 ## 📂 Projetos em Destaque
 - [🌐 Portfólio Pessoal](link_para_repositorio)
-- [🛒 Loja Virtual Simples](link_para_repositorio)
-- [✏️ Blog Responsivo](link_para_repositorio)
+- [📋 Lista de Tarefas](link_para_repositorio)
+- [🖩 Calculadora IMC](link_para_repositorio)
 
 ---
 
