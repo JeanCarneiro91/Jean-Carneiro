@@ -16,10 +16,8 @@
 ---
 
 ## 📂 Projetos em Destaque
-- [🌐 Portfólio Pessoal](link_para_repositorio)
-- [📋 Lista de Tarefas](link_para_repositorio)
-- [🖩 Calculadora IMC](link_para_repositorio)
-
+- [🌐 Portfólio Pessoal](https://github.com/JeanCarneiro91/portifolio-jean)
+  
 ---
 
 ## 📫 Contato
